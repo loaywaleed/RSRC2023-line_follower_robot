@@ -1,0 +1,1 @@
+# Robot that participated and won first place as the fastest and the most precise line follower robot in RSRC competition held by IEEE PSU branch in May 2023
